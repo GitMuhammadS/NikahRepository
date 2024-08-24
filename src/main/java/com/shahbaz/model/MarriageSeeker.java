@@ -10,4 +10,6 @@ public class MarriageSeeker {
 	private String gender;
 	private MultipartFile resume;
 	private MultipartFile photo;
+	
+	//private MultipartFile photo2;
 }

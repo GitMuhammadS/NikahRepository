@@ -17,4 +17,10 @@ public class MatrimonyServiceImpl implements IMatrimonyService{
 		return "profile is registered with: "+repo.save(entity).getProfileId();
 	}
 
+	@Override
+	public String saveProfile() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

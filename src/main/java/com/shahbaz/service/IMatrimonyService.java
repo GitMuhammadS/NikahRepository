@@ -5,4 +5,5 @@ import com.shahbaz.entity.MarriageSeekerInfo;
 public interface IMatrimonyService {
 	
 	public String registerProfile(MarriageSeekerInfo entity);
+	public String saveProfile();
 }

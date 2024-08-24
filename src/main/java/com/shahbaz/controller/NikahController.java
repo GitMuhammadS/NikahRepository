@@ -29,6 +29,8 @@ public class NikahController {
 	public String showHomePage() {
 		return "home";
 	}
+
+	//bye
 	
 	@GetMapping("/register")
 	public String showProfileFormPage(@ModelAttribute("profile") MarriageSeeker seeker) {

@@ -23,4 +23,7 @@ public class MarriageSeekerInfo {
 		private String resumePath;
 		@Column(length=150)
 		private String photoPath;
+		
+		@Column
+		private String golgappe;
 }

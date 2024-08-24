@@ -8,6 +8,10 @@
 </head>
 <body>
 		<h1 style="text-align:center"><a href="register">Register profile</a></h1>
-		<h1 style="text-align:center"><a href="display">Display profile</a></h1>
+		<h1 style="text-align:center"><a href="display">Display 
+profile</a></h1>
+
+<h1>Hey what r u</h1>
+
 </body>
 </html>

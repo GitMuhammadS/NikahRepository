@@ -50,11 +50,7 @@
 <dependency>
     <groupId>commons-fileupload</groupId>
     <artifactId>commons-fileupload</artifactId>
-<<<<<<< HEAD
-    <version>1.6</version>
-=======
-    <version>1.4</version>
->>>>>>> 4f5da72617b2db160f99769141b294051b4467b5
+    <version>1.5</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 		<dependency>

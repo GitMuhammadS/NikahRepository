@@ -84,4 +84,8 @@ public class NikahController {
 		return "marriage_seeker_register";
 		
 	}
+	
+	public static void t1() {
+		System.out.println("Dead POOl");
+	}
 }

@@ -32,5 +32,9 @@ public class MatrimonyServiceImpl implements IMatrimonyService{
 		return "complete task"; //incomplete
 
 	}
+	
+	public String m6() {
+		return "shahbaz";
+	}
 
 }

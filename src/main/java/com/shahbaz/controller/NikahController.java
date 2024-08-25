@@ -89,7 +89,7 @@ public class NikahController {
 		
 	}
 	
-	public static void t1() {
-		System.out.println("Dead POOl");
+	public void m1() {
+		System.out.println("NikahController.m1()");
 	}
 }
